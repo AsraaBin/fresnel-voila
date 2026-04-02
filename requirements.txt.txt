@@ -1,6 +1,0 @@
-voila
-numpy
-pandas
-matplotlib
-scikit-learn
-ipywidgets
